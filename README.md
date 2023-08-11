@@ -9,7 +9,7 @@
 -->
 Stochastic-based Generative Network Complex
 
-A python package for Generative Network Complex. 
+A python package for the Stochastic-based Generative Network Complex
 
 #### 1 Preperation for Predictive Models
 
