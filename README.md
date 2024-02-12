@@ -87,5 +87,5 @@ A python package for the Stochastic-based Generative Network Complex
 1. Decode latent space vectors (from encoder) to smiles. 
 2. Make comparasion with the generated smiles. Check the reproduction rate.
 
-#### Reference
+### Reference
 [1] Wang, R., Feng, H. and Wei, G.W., 2023. ChatGPT in Drug Discovery: A Case Study on Anticocaine Addiction Drug Development with Chatbots. Journal of Chemical Information and Modeling, 63(22), pp.7189-7209.
