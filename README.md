@@ -13,7 +13,7 @@ The Stochastic-based Generative Network Complex (SGNC) is a comprehensive framew
 
 The SGNC workflow consists of five main stages:
 
-![SGNC Workflow](img/SGNCWorkflow_white.png)
+![SGNC Workflow](img/SGNCWorkflow.png)
 
 
 ## Installation
